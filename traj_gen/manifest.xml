@@ -1,0 +1,18 @@
+<package>
+  <description brief="traj_gen">
+
+     traj_gen
+
+  </description>
+  <author>Adam Hudson</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/traj_gen</url>
+  <depend package="rospy"/>
+  <depend package="std_msgs"/>
+  <depend package="geometry_msgs"/>
+  <depend package="sensor_msgs"/>
+  <depend package="tf2_ros"/>
+  <depend package="tf"/>
+
+</package>
