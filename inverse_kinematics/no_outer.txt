@@ -1,0 +1,3601 @@
+In main
+Goal:
+position: 
+  x: -1.8076568529512
+  y: 2.3288414978325562
+  z: 7.0507991779341
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -4.8727779410875405
+  y: -0.06999704761858766
+  z: 4.1624265784019885
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.8455517421970913
+  y: -1.6294604740768057
+  z: -0.7878481814746077
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.860416414555305
+  y: -2.981404307384135
+  z: 5.8336101163099165
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -0.9210044871546784
+  y: -1.2757188591040178
+  z: -1.7565104990073648
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -1.3166562882657327
+  y: -4.3386289319689135
+  z: 5.131388094470969
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -0.8770625628275701
+  y: -4.376611152418749
+  z: 0.7248876771881871
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.949653338834815
+  y: -1.7467311190885335
+  z: 6.653570250906412
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -1.9342030133555626
+  y: 2.367282918867184
+  z: 6.96924807553848
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.3552009968372
+  y: -1.7677835816413547
+  z: -1.0531554957805804
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.0314362667380155
+  y: -3.345298608534924
+  z: 0.8275655636038679
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 1.7920390893543163
+  y: 2.7524880100763007
+  z: 6.783187235204247
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.2402373041504244
+  y: 3.4962896465082576
+  z: 1.4582733963146548
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -1.9698188044016267
+  y: 0.2074522797143587
+  z: -1.6018341375441878
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -1.6198476652173397
+  y: -4.031719496335801
+  z: 5.494279744606795
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -1.6244129082946408
+  y: 3.97631106322487
+  z: 5.57882396294149
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.3082094484333973
+  y: 3.439245305404443
+  z: 1.4744043869525951
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -4.70905790033414
+  y: 0.7279165359524837
+  z: 1.4524176248136074
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -0.18024633555435005
+  y: -3.9688623121049593
+  z: 6.052170245263541
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.6956744499737058
+  y: -3.6500933780704576
+  z: 5.123736704755359
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -1.218332635612884
+  y: 3.346902085575179
+  z: 6.523352383536606
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.2527908539917134
+  y: -2.36529281765827
+  z: 5.9874473295645
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -0.16191111942686343
+  y: 3.505827240811673
+  z: 6.575340563776932
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -4.636417672764943
+  y: 1.3777777961170765
+  z: 4.305932428649998
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.2203450338182384
+  y: 1.6930870503101776
+  z: -0.4442610387765602
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -2.098266817171524
+  y: -2.490952609902034
+  z: 6.806905759167034
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -1.39703697352529
+  y: 3.4874532911609846
+  z: -0.31452217319083786
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.3483744277497665
+  y: 3.1602018892296195
+  z: 1.0247499624348912
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.060632569088399
+  y: 2.8418362569549434
+  z: -0.5746132803239652
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -2.208023007062246
+  y: 4.380318110497577
+  z: 1.9813991698752977
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 1.1080689679941538
+  y: 3.575059434448287
+  z: 6.330350312254053
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.530872015119054
+  y: 1.4730237772990593
+  z: -0.2346937667050839
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -0.8347210829654652
+  y: -3.4231396884328364
+  z: -0.5616646932479332
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -0.6974999004532222
+  y: -3.3586601432652943
+  z: -0.651437515679119
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.5728034572275185
+  y: 2.7636508270065745
+  z: 6.292873589566415
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.42175205394952
+  y: 3.4980665218105402
+  z: 4.074822538971222
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 4.00223686799126
+  y: -0.5075355884767525
+  z: 0.029375877206768042
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 1.0439472016636033
+  y: -0.5146582356743794
+  z: 7.872925316541519
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.0220894520408024
+  y: 3.852000513010491
+  z: 5.484621962333955
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -1.2955378717655834
+  y: -2.520912102844352
+  z: 7.131184308712692
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.6824254285126217
+  y: -3.8791542105669956
+  z: 4.690223781370157
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -2.491345613171817
+  y: -1.2728620084297397
+  z: 7.1560942413792485
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -2.621641820995575
+  y: 3.118089443443688
+  z: 0.08373314233898776
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -1.1559610633577746
+  y: 3.619805948981783
+  z: -0.2650970753894666
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -1.558725336775028
+  y: -4.0024373219518985
+  z: 0.4210523835598967
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.231184287568392
+  y: 2.516084974951629
+  z: 0.11402278273133204
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.721083925485469
+  y: 2.8055472387435625
+  z: 1.1608319514867538
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.414530623939191
+  y: -3.487372052140174
+  z: 1.868931130243138
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -2.1739874354847086
+  y: -3.9826339249989653
+  z: 5.124265908449777
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 1.3169679285526878
+  y: 3.3143399297336074
+  z: 6.518642679405946
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.087435156811874
+  y: -1.6729406288453261
+  z: -0.5733896799594413
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 1.5431372341405012
+  y: 3.4328542430024562
+  z: 6.306711239722821
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -2.489917925741332
+  y: 3.301084594603955
+  z: 0.17099854677654447
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 1.250976861774038
+  y: -4.2575372248991945
+  z: 5.325625436286687
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -4.296302467220424
+  y: 2.5753403336297938
+  z: 3.097505262090184
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -1.8420821100938765
+  y: 3.506061535061822
+  z: -0.06828388713170197
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -1.0435466593359748
+  y: 4.80579319273185
+  z: 2.043202132903224
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -1.822778110828093
+  y: -4.621685152163074
+  z: 2.353775338631094
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.7727931423747716
+  y: 0.1792383789672008
+  z: 6.291505052153969
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -0.37198340182293294
+  y: -4.991202834138024
+  z: 2.777238654024551
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -2.5228580595417234
+  y: -3.8215407957092373
+  z: 0.9674860005069155
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 0.5603824921927231
+  y: -3.2226306036975334
+  z: 6.794828514512341
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 1.8435789760933323
+  y: 3.7889443294983156
+  z: 0.28979384052260393
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -2.1649324475526517
+  y: 1.098322306797881
+  z: -1.382562675869436
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.090236731382863
+  y: 1.9026686744388792
+  z: 6.454039498807324
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 1.064449696846089
+  y: 1.5991906918247771
+  z: 7.627054783992216
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -1.8461834167068167
+  y: 3.022615417459101
+  z: 6.543374497568001
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -0.44998189101471725
+  y: -3.096310231044433
+  z: -0.9128607502552901
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.1401057857684407
+  y: 2.476971731335627
+  z: 6.7927112028052745
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.59322233869342
+  y: -3.772685980878319
+  z: 5.035224408212919
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.019709007546984
+  y: -2.03237628258088
+  z: 6.442514220122021
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.101177620845706
+  y: -3.4020942727175076
+  z: 4.977005797540437
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.9717956380820567
+  y: -2.4624411830474386
+  z: 4.805913295079328
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -2.8798770513382412
+  y: 3.0803497607779686
+  z: 0.2948468582258661
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 1.79217034266858
+  y: 3.2927608648434563
+  z: 6.323544997410831
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 0.472886715495419
+  y: -2.3852107861361778
+  z: 7.3803250632809885
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 1.405563540006327
+  y: -2.574796014157703
+  z: 7.061393433352952
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.3553620923777756
+  y: 3.7203829125131835
+  z: 2.9800948922597366
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -0.8249536014159284
+  y: 2.7542655475007685
+  z: -1.1028737306138465
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -2.8326124294449735
+  y: -4.107152787761958
+  z: 3.4557442292920646
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 0.10878622549188571
+  y: 4.764587119389682
+  z: 4.544983863633908
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 0.35308787008091036
+  y: -4.375562113299277
+  z: 5.414515510130695
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 0.3674166491699493
+  y: -2.520163856994805
+  z: 7.314380504754975
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -4.031115438906543
+  y: 2.9203006904707856
+  z: 2.432503572306254
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.7911139817531123
+  y: 2.768454611672352
+  z: 6.1057111591344695
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 1.1877149254112738
+  y: -3.7313557766486993
+  z: 6.1251267692728355
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -2.6498402002230463
+  y: 3.4821171690923483
+  z: 0.5600600552484551
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -4.560413742319726
+  y: 0.4812768884635049
+  z: 5.0176964725875575
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 1.7261544689952815
+  y: 4.555776317005064
+  z: 1.8314997224718386
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 0.05588589983844737
+  y: 3.3965637276508303
+  z: 6.682435554114416
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.711927010118075
+  y: -2.936667730828858
+  z: -0.020187830334484236
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.5337564556640055
+  y: -2.7363113820628313
+  z: 5.26390488590982
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.3113980991115266
+  y: 4.314835561635543
+  z: 4.0675827384652266
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -0.6887709823548398
+  y: 1.6644799124465512
+  z: 7.674954668756465
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 4.2379732719932415
+  y: -2.610973723150011
+  z: 3.5678897453653047
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.31927906252325
+  y: -3.115651090784707
+  z: -0.16445301918567568
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -0.34196963580611445
+  y: 4.978847632591896
+  z: 2.5592812465747508
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 1.6239566055462726
+  y: 4.0780938621343354
+  z: 5.414956603114202
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.5315795300165456
+  y: -2.754652357852536
+  z: -0.33213077032980065
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -0.13727514263861937
+  y: -0.29081296386829425
+  z: 7.999668324525106
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.979160987664354
+  y: -3.8739648584960715
+  z: 1.8967792221335484
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 0.2537409192392409
+  y: -2.026090717305611
+  z: -1.5750051312705278
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.4769326186399585
+  y: -1.6848961200420658
+  z: -1.0157228324903835
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.0886424989816015
+  y: 3.9108002609177714
+  z: 2.4842201703341025
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -4.331039176011696
+  y: 0.6049199332081046
+  z: 5.444641390932302
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 4.142836555479329
+  y: 0.2801500567866457
+  z: 0.19669459026195213
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.2919104712974505
+  y: 3.7608266465171925
+  z: 3.3458444503074256
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 1.0019671778299095
+  y: 4.512359745094895
+  z: 4.932555640958028
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 1.8507333236127887
+  y: -2.8468941794395963
+  z: 6.683758908498506
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.1191697578351696
+  y: 3.7772597352532653
+  z: 1.9496719968310292
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 0.9191419757630296
+  y: -3.525849411214821
+  z: 6.438555504543519
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -0.3790344744976658
+  y: 4.146551154927232
+  z: 0.21386533227233961
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.8192979351371297
+  y: 3.0845914080237993
+  z: 2.0008207727324376
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -2.5148349606357905
+  y: 3.5463728299808253
+  z: 5.4897680356888205
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -0.8864224080070451
+  y: -0.467614123115398
+  z: 7.908736328877933
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.411480132593885
+  y: -1.9060675063374493
+  z: -0.13509329465675357
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 4.92804001463218
+  y: 0.059910254026116015
+  z: 2.0994821625050477
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 0.8303237559137105
+  y: 1.474220269242794
+  z: -1.7156481058407076
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.4318190677333513
+  y: -1.383749467760798
+  z: 6.37756647555803
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 1.3160556102600969
+  y: 2.101740029852751
+  z: 7.353250105107388
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 1.102309466223401
+  y: 0.6424451547544116
+  z: 7.84481971427285
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 4.086001060044286
+  y: -2.836159778105466
+  z: 3.600743747677593
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 4.097321553697811
+  y: 2.6320058521710368
+  z: 1.8233091826054018
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 0.34547424514338904
+  y: -2.3699840870346485
+  z: 7.400445769822093
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -1.8730673652006251
+  y: -1.2016761001734335
+  z: 7.4886181833268415
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.5873392959880386
+  y: -0.18191507252020578
+  z: -1.2863366962741143
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.048800682082415
+  y: -2.124472484507716
+  z: -0.36028734835332354
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -2.8613344793140554
+  y: -3.2538507262764322
+  z: 0.4849810242069936
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.637408893543135
+  y: 1.3965696991037468
+  z: 6.149436396677757
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.931009855414691
+  y: -2.972388842564528
+  z: 2.098797422756418
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -2.7198251512828886
+  y: -1.2257008003920347
+  z: -1.0249607071830322
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 4.190930892477063
+  y: 2.7440694668522365
+  z: 2.9207471415613657
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.4515308651063794
+  y: -2.191041809324899
+  z: 0.10407692142759428
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.2654419200553133
+  y: -3.2344940128504427
+  z: 4.993749620082749
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.461868295315975
+  y: 3.5327143635547116
+  z: 2.202819260505943
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 1.7426153680215843
+  y: 0.08121137250036105
+  z: -1.6964663729352525
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -2.8574436297173853
+  y: -2.856765682548918
+  z: 0.03790517741272437
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 0.1303448431913086
+  y: 1.9871531928487223
+  z: -1.5972091979813747
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 1.6947455663031226
+  y: -4.293777644181137
+  z: 4.9471545926880545
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.6077498777007504
+  y: 2.8500683981523793
+  z: 4.990314283173225
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.6622093907347444
+  y: -1.9491074781019861
+  z: 0.1912097947299145
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 4.335575880359547
+  y: 2.5051618590979468
+  z: 2.8355437889119166
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.1943806195694817
+  y: -1.5944481186855701
+  z: 6.514792690065652
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -2.8683801712476606
+  y: -3.8654152439752782
+  z: 4.38962591543076
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.7568029799435276
+  y: -1.0493233977400047
+  z: -0.14411383013446244
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.493984638228641
+  y: 1.6542854448991728
+  z: -0.1867712523206011
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.234854054742484
+  y: 3.7518038312973387
+  z: 2.251810681726399
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.2995592087873407
+  y: 2.7592099039183093
+  z: 0.4309983001512485
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 4.184115588313672
+  y: -2.75493635818055
+  z: 3.060020046696322
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.912552390584417
+  y: 4.0576458771552755
+  z: 3.3907025821591072
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 4.815349107117912
+  y: 1.3479559721681136
+  z: 3.3090755145187605
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.0414183806940973
+  y: -1.875564872889277
+  z: -0.511713348375678
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.0874883665805504
+  y: 3.780440191018052
+  z: 0.46016451683849136
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.8347024455821375
+  y: -1.3323609799483207
+  z: -0.910163201724679
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.3489314208485985
+  y: -3.265592947093785
+  z: 0.013610225700351641
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -2.800960319658928
+  y: -1.0188358786844756
+  z: -1.0269957462109875
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -4.611649997880757
+  y: 1.0140517411002432
+  z: 4.674659178286129
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.3386458500588208
+  y: 1.9901241300362498
+  z: -0.16116273464883069
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.9427228859967958
+  y: 1.4342099111996776
+  z: 5.738261889384159
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 4.537087231575134
+  y: -1.1800219509110328
+  z: 1.23294379024152
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.2591373511146395
+  y: 3.002597677888819
+  z: -0.31372986429723904
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -2.9453483633441198
+  y: -0.49656799381334205
+  z: 7.0222435587699445
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.125188506614834
+  y: 0.18321091606539103
+  z: -0.9114870009188349
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.1269680445219645
+  y: -2.8078081234436274
+  z: 0.27265983227935875
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 4.960453433733978
+  y: 0.535909805025556
+  z: 2.5452446672833227
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 4.416714433640462
+  y: -0.3671045563450982
+  z: 0.663770589949976
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.9245886737124454
+  y: 3.104054540489901
+  z: 3.250098284344417
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.4421769784341025
+  y: 1.9784372371529897
+  z: 6.055700205809581
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.9609230459898535
+  y: -3.069154521015563
+  z: 5.629320300354428
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -2.9629271365025156
+  y: -0.6649812455352765
+  z: -0.9848416187928155
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -1.299184754916823
+  y: 4.132051428330229
+  z: 0.48238804296098303
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.594979194180493
+  y: 3.4649755353105727
+  z: 3.4125156155936214
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.1157791594160846
+  y: 3.180580286240802
+  z: 0.7030608905491706
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.8458746865783335
+  y: 4.1100974571124285
+  z: 2.6710681509330323
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -2.4240802803569172
+  y: 1.983644537932753
+  z: -0.9101264866387995
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.998248634015186
+  y: -1.6379672803812362
+  z: 5.5359753644300636
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.351371448956415
+  y: -0.44578068830004147
+  z: 6.697254249988568
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -0.21555781658097406
+  y: -3.962248266122974
+  z: -0.05846750927916933
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.8734362264632205
+  y: -2.4576981932136843
+  z: 6.286819715701334
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.072153709964883
+  y: -3.59354579250696
+  z: 1.3421700269615915
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -0.1299100269780724
+  y: -3.6130071499295404
+  z: 6.468342935675276
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.6394069796265414
+  y: -2.05101569629005
+  z: 6.731884967341642
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.143146764603668
+  y: 3.886851415805602
+  z: 2.6636750267799276
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -1.3394657866608621
+  y: 4.794445537161906
+  z: 2.4350014180962223
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 4.305598110451915
+  y: -2.1572145687331328
+  z: 4.381430496159116
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -3.451932637180828
+  y: -2.4643197670228396
+  z: 5.666718799241178
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 0.15776861050400445
+  y: -3.8554336512746965
+  z: 6.195440568397149
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 4.2835813845432185
+  y: 1.0072931760093
+  z: 5.395076403699869
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -0.8173515688650612
+  y: 3.090810102977066
+  z: 6.857321521497621
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 0.3437384945240573
+  y: -4.436213667768899
+  z: 5.302596825604244
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -2.9460653398026446
+  y: 3.043701937607309
+  z: 0.3248032729126189
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 2.9706405084900704
+  y: -3.8660054075247086
+  z: 1.847005135177279
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -1.8325261504581292
+  y: -4.179555286627486
+  z: 0.9328121725611522
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.8454484564573477
+  y: -1.6683689283850827
+  z: 0.25606645715881005
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.954743425982231
+  y: -2.7246951716577907
+  z: 4.426934005550028
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 0.13112634572107004
+  y: -4.616334248354793
+  z: 1.0577425533867983
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -4.147680270486647
+  y: 1.3257880501424046
+  z: 0.5222723273298562
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 4.668889677818109
+  y: -0.9000737482088047
+  z: 4.578428466592281
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: -2.4172236273475574
+  y: 1.1791486336230648
+  z: -1.226906485269999
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
+Goal:
+position: 
+  x: 3.4464756727350028
+  y: 3.3448235518450975
+  z: 4.426205049867709
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+
+In IK
+geometry fail
+No Solution
+
+
+
+
