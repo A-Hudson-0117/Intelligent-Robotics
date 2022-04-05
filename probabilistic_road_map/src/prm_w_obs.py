@@ -126,43 +126,41 @@ def queryPhase(sNode, gNode, graph, obs):
 numObs = 20
 
 def main():
-    while 1:
-        rospy.sleep(1) 
-        obstacle_pub = rospy.Publisher("/visualization_marker_array", MarkerArray, queue_size=10)
-        obstacles = [prm_obs.createObRand() for _ in range(numObs)]
-        # print("collide")
-        obs_collide = [ob.collObj for ob in obstacles]
-        # print("Collide done")
-        obstacles_msg = MarkerArray()
-        obstacles_msg.markers = [prm_obs.buildRvizCube(ob, i) for i, ob in enumerate(obstacles)]
-        
-        print("Obstacles Added")
+    rospy.sleep(1) 
+    obstacle_pub = rospy.Publisher("/visualization_marker_array", MarkerArray, queue_size=10)
+    obstacles = [prm_obs.createObRand() for _ in range(numObs)]
+    # print("collide")
+    obs_collide = [ob.collObj for ob in obstacles]
+    # print("Collide done")
+    obstacles_msg = MarkerArray()
+    obstacles_msg.markers = [prm_obs.buildRvizCube(ob, i) for i, ob in enumerate(obstacles)]
+    
+    print("Obstacles Added")
 
-        rospy.sleep(1)
-        
-        obstacle_pub.publish(obstacles_msg)
-        
-        #rospy.sleep(1)
-        
-        print("Generating Graph")
-        graph = learningPhase(NumberOfNodes, obs_collide)
-        
-        #nx.draw(graph)
-        #plt.show()
-        sNode =  Node(np.array([-math.pi/2, .6, .1]))
-        gNode =  Node(np.array([math.pi/2, -.7, -.7]))
-        
-        # rospy.sleep(1)
-        print("Publishing Path")
-        
-        path = queryPhase(sNode, gNode, graph, obs_collide)
-        print(path)
-        
-        rospy.sleep(1)
-        
-        if(path is not None):
-            pubJointState(path)
-            break
+    rospy.sleep(1)
+    
+    obstacle_pub.publish(obstacles_msg)
+    
+    #rospy.sleep(1)
+    
+    print("Generating Graph")
+    graph = learningPhase(NumberOfNodes, obs_collide)
+    
+    #nx.draw(graph)
+    #plt.show()
+    sNode =  Node(randomConfigurations())
+    gNode =  Node(randomConfigurations())
+    
+    # rospy.sleep(1)
+    print("Publishing Path")
+    
+    path = queryPhase(sNode, gNode, graph, obs_collide)
+    print(path)
+    
+    rospy.sleep(1)
+    
+    if(path is not None):
+        pubJointState(path)
     
 #     # Loop through the nodes in the graph
 #     for n in graph.nodes:
