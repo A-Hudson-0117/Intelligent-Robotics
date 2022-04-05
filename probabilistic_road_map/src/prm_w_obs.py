@@ -148,29 +148,23 @@ def main():
     
     #nx.draw(graph)
     #plt.show()
-    sNode =  Node(randomConfigurations())
-    gNode =  Node(randomConfigurations())
-    
-    # rospy.sleep(1)
-    print("Publishing Path")
-    
-    path = queryPhase(sNode, gNode, graph, obs_collide)
-    print(path)
-    
-    rospy.sleep(1)
-    
-    if(path is not None):
-        pubJointState(path)
-    
-#     # Loop through the nodes in the graph
-#     for n in graph.nodes:
-#         print(n)
-#         print(n.value)
+
+    i = 0
+    while i < 30:
+        i += 1
+        sNode =  Node(randomConfigurations())
+        gNode =  Node(randomConfigurations())
         
-#         # Loop through all edges incident with node n
-#         for e in graph.edges[n]:
-#             print(e)
-    
+        # rospy.sleep(1)
+        print("Publishing Path")
+        
+        path = queryPhase(sNode, gNode, graph, obs_collide)
+        print(path)
+        
+        rospy.sleep(1)
+        if(path is not None):
+            pubJointState(path)
+            break
     
     print("done")
 
