@@ -16,6 +16,7 @@ find_package(catkin REQUIRED COMPONENTS
   std_msgs
   tf
   tf2_ros
+  visualization_msgs 
 )
 
 ## System dependencies are found with CMake's conventions
@@ -78,6 +79,7 @@ find_package(catkin REQUIRED COMPONENTS
    nav_msgs
    sensor_msgs
    std_msgs
+   visualization_msgs 
  )
 
 ################################################
